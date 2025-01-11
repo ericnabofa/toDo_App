@@ -1,6 +1,6 @@
-# Eric Nabofa's To-Do App
+# To-Do App
 
-Welcome to the **Eric Nabofa To-Do App**, a simple and intuitive task management application built with Laravel. This application is designed to help users organize and track their tasks efficiently.
+Welcome to the **To-Do App**, a simple and intuitive task management application built with Laravel. This application is designed to help users organize and track their tasks efficiently.
 
 ## Table of Contents
 
